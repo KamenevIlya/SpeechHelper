@@ -1,0 +1,115 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<myEntities>
+  <record time="21.04.2021 10:05:53">
+    <entities>
+      <entity>сортировщики</entity>
+      <entity>кнопками</entity>
+      <entity>Господа</entity>
+    </entities>
+    <text>
+    </text>
+  </record>
+  <record time="22.04.2021 2:58:11">
+    <entities>
+      <entity number="0">Привет</entity>
+      <entity number="0">доску</entity>
+    </entities>
+    <text>
+    </text>
+  </record>
+  <record time="22.04.2021 3:03:03">
+    <entities>
+      <entity number="1">мистер</entity>
+      <entity number="2">президент</entity>
+      <entity number="3">капусту</entity>
+    </entities>
+    <text> Здравствуйте мистер президент вы не говорили что взяли с собой капусту</text>
+  </record>
+  <record time="22.04.2021 3:03:42">
+    <entities>
+      <entity number="1">мясо</entity>
+      <entity number="2">тарелка</entity>
+    </entities>
+    <text> также очень приятно что мясо было вкусным а тарелка</text>
+  </record>
+  <record time="22.04.2021 20:25:38">
+    <entities>
+      <entity number="1" type="Other">cup of tea meme</entity>
+    </entities>
+    <text> Hello, mister. Would you like a cup of tea meme?</text>
+  </record>
+  <record time="22.04.2021 21:02:01">
+    <entities>
+      <entity number="1" type="Other">Привет</entity>
+      <entity number="2" type="Person">воины</entity>
+      <entity number="3" type="ConsumerGood">чебуреки</entity>
+    </entities>
+    <text> Привет чебуреки славные воины</text>
+  </record>
+  <record time="22.04.2021 21:02:25">
+    <entities />
+    <text> hello mister I'm glad to see you again</text>
+  </record>
+  <record time="22.04.2021 21:03:33">
+    <entities>
+      <entity number="1" type="WorkOfArt">song</entity>
+    </entities>
+    <text> previous song</text>
+  </record>
+  <record time="23.04.2021 0:34:22">
+    <entities>
+      <entity number="1" type="Other">Body</entity>
+      <entity number="2" type="Other">Come</entity>
+      <entity number="3" type="Other">Backup</entity>
+      <entity number="4" type="Location">prison</entity>
+    </entities>
+    <text> would you like to Stand and Body and make Backup of Come After you coming back From prison</text>
+  </record>
+  <record time="23.04.2021 0:34:51">
+    <entities>
+      <entity number="1" type="Person">What</entity>
+      <entity number="2" type="Other">name</entity>
+    </entities>
+    <text> Hello Mr What's your name</text>
+  </record>
+  <record time="23.04.2021 0:35:53">
+    <entities>
+      <entity number="1" type="Other">mister</entity>
+      <entity number="2" type="Other">tea</entity>
+      <entity number="3" type="Other">cup</entity>
+      <entity number="4" type="Location">prison</entity>
+    </entities>
+    <text> Hello mister for the like a cup of tea after you're done from prison.</text>
+  </record>
+  <record time="24.04.2021 9:04:15">
+    <entities>
+      <entity number="1" type="Other">Привет</entity>
+      <entity number="2" type="Other">Привет</entity>
+    </entities>
+    <text> Привет Это Привет</text>
+  </record>
+  <record time="05.05.2021 16:28:48">
+    <entities>
+      <entity number="1" type="Other">Привет</entity>
+      <entity number="2" type="Other">правда</entity>
+      <entity number="3" type="Person">Антон</entity>
+    </entities>
+    <text> Привет Антон это правда</text>
+  </record>
+  <record time="05.05.2021 16:28:54">
+    <entities>
+      <entity number="1" type="Other">Привет</entity>
+      <entity number="2" type="Other">правда</entity>
+      <entity number="3" type="Person">Антон</entity>
+    </entities>
+    <text> Привет Антон это правда</text>
+  </record>
+  <record time="05.05.2021 16:29:04">
+    <entities />
+    <text> Я очень рад вас видеть</text>
+  </record>
+  <record time="05.05.2021 16:29:13">
+    <entities />
+    <text> Надеюсь вы тоже рады</text>
+  </record>
+</myEntities>
